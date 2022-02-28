@@ -40,5 +40,10 @@ namespace _18TH_N1_07Form
 
             
         }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
