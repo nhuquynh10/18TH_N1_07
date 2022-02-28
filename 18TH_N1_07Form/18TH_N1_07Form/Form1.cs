@@ -40,5 +40,10 @@ namespace _18TH_N1_07Form
 
             
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
