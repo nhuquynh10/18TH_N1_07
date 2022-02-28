@@ -16,5 +16,34 @@ namespace _18TH_N1_07Form
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Login_Click(object sender, EventArgs e)
+        {
+            String username = txtUsername.Text;
+            String pass = txtPass.Text;
+            if(username == "admin" && pass == "admin")
+            {
+                MessageBox.Show("Dang nhap thanh cong!!");
+
+            }
+
+
+            
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
