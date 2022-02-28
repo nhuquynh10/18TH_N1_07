@@ -44,7 +44,11 @@ namespace _18TH_N1_07Form
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(93, 13);
             this.label1.TabIndex = 0;
+<<<<<<< HEAD
             this.label1.Text = "Tên 2 đăng nhập:";
+=======
+            this.label1.Text = "Tên đăng nhập2:";
+>>>>>>> fe62c43b1d31d792ea703c3cf24f60f53bac3432
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -55,7 +59,11 @@ namespace _18TH_N1_07Form
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(64, 13);
             this.label2.TabIndex = 1;
+<<<<<<< HEAD
             this.label2.Text = "Mật 2 khẩu:";
+=======
+            this.label2.Text = "Mật khẩu2:";
+>>>>>>> fe62c43b1d31d792ea703c3cf24f60f53bac3432
             // 
             // txtUsername
             // 
